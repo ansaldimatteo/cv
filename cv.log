@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.3)  4 JAN 2022 13:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.3)  4 JAN 2022 15:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -379,15 +379,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(74.68848pt, 448.1309pt, 74.68849pt)
-* v-part:(T,H,B)=(84.50467pt, 633.78513pt, 126.75705pt)
+* h-part:(L,W,R)=(44.81126pt, 507.88533pt, 44.81128pt)
+* v-part:(T,H,B)=(50.70074pt, 718.29497pt, 76.05113pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=448.1309pt
-* \textheight=633.78513pt
-* \oddsidemargin=2.41849pt
-* \evensidemargin=2.41849pt
-* \topmargin=-24.76532pt
+* \textwidth=507.88533pt
+* \textheight=718.29497pt
+* \oddsidemargin=-27.45872pt
+* \evensidemargin=-27.45872pt
+* \topmargin=-58.56924pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -491,22 +491,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--130
 
 [1
 
-{C:/Users/ansal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] (cv.aux)
+{C:/Users/ansal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 9689EC523C7FBDFD300F18C159CF35BE;921.
+(rerunfilecheck)             Checksum: 95F1F31829546C2BD82D82EA4490FCD1;1251.
  ) 
 Here is how much of TeX's memory you used:
- 12894 strings out of 478659
- 214207 string characters out of 2845921
- 642040 words of memory out of 3000000
- 30683 multiletter control sequences out of 15000+600000
- 474439 words of font info for 110 fonts, out of 8000000 for 9000
+ 12905 strings out of 478659
+ 214357 string characters out of 2845921
+ 648061 words of memory out of 3000000
+ 30684 multiletter control sequences out of 15000+600000
+ 474985 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,13n,83p,1027b,393s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso17.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (3 pages, 200541 bytes).
+{C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso17.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on cv.pdf (2 pages, 190243 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 41025 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 104 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 41041 words of extra memory for PDF output out of 42996 (max. 10000000)
 
