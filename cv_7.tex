@@ -1,0 +1,193 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.3 (29/10/16)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com) with modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same 
+% directory as this .tex file. These files provide the resume style and themes 
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+
+\usepackage[scale=0.75]{geometry} % Reduce document margins
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Matteo} % Your first name
+\familyname{Ansaldi} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+\title{Curriculum Vitae}
+\address{Via Borgo San Dalmazzo, 6}{12012, Boves (CN), Italy}
+\mobile{+39 366 351 6370}
+\email{ansaldimatteo@outlook.com}
+\extrainfo{www.linkedin.com/in/ansaldi-matteo}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+
+%----------------------------------------------------------------------------------------
+%	CURRICULUM VITAE
+%----------------------------------------------------------------------------------------
+
+\makecvtitle % Print the CV title
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+
+\cventry{2017--2019}{Masters Degree in Computer Engineering}{Politecnico di Torino}{Turin}{\textit{110/110}}{}  % Arguments not required can be left empty
+\cventry{2013--2017}{Bachelors Degree in Computer Engineering}{Politecnico di Torino}{Turin}{\textit{92/110}}{}
+
+\section{Masters Thesis}
+
+\cvitem{Title}{\emph{Camera-less context detection in mobile platforms}}
+\cvitem{Supervisors}{Professor M. Poncino \& Associate Professor D. Jahier Pagliari}
+\cvitem{Description}{This thesis studied the potential to use low-powered sensors in mobile devices with a Convolutional Neural Network to help reduce battery usage. I developed an Android app in Java to collect the training and testing data, and implemented the CNN using Python and PyTorch.}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Professional Experience}
+
+%\subsection{Vocational}
+
+\cventry{08/2020--Present}{Associate Solutions Architect}{\textsc{Amazon Web Services}}{Milan}{}{
+    Worked and lead on multiple projects for external clients. The majority of the time I worked as 
+    an iOS developer and maintainer, developing a couple of apps while also managing launches along 
+    with my couterparts on Android. I also worked as a backend developer on other projects, mainly 
+    creating backends in node.js
+}
+
+%------------------------------------------------
+
+\cventry{05/2019--08/2020}{Programmer}{\textsc{Reply S.p.A}}{Turin}{}{
+    Worked and lead on multiple projects for external clients. The majority of the time I worked as 
+    an iOS developer and maintainer, developing a couple of apps while also managing launches along 
+    with my couterparts on Android. I also worked as a backend developer on other projects, mainly 
+    creating backends in node.js
+\newline{}\newline{}
+Detailed projects:
+\begin{itemize}
+\item \textbf{Beretta Firearms}
+\newline
+    My work on the Shooting Data project involved learning Objective-C 
+    and then taking over the role of primary iOS developer on the app, alongside
+    the role as maintainer of a parser for data collection. As maintainer of the parser, I had
+    to interact directly with the clients, use the Azure IoT Hub, and update the parser written
+    in java.
+\item \textbf{Vodafone}
+\newline
+    For this project, I maintained the main backend in node.js for the Smart@Home Vodafone Platform. 
+    This required managing multiple databases for each development environment and general maintenance 
+    of the backend for push notifications. The main technologies used were node.js, MySQL, and multiple 
+    AWS technologies such as SQS, SNS, ECS, RDS, etc.
+\item \textbf{Fondazione Torino Musei}
+\newline
+    On this project, I was given the role of developing the iOS app and designing the backend with 
+    Firebase Cloud Firestore. I also had the opportunity to study and implement some Firestore Cloud 
+    Functions to keep the data synchonized.
+\item \textbf{Caleffi}
+\newline
+    I worked as an iOS developer on the project, which required designing multiple API 
+    calls to our backend, and to develop an interaction flow between a gateway and iPhone 
+    via bluetooth commands.
+\end{itemize}}
+
+%------------------------------------------------
+
+\cventry{2011--2012}{Summer Intern}{\textsc{Lehman Brothers}}{Los Angeles}{}{Rated "truly distinctive" for Analytical Skills and Teamwork.}
+
+%------------------------------------------------
+
+\subsection{Miscellaneous}
+
+\cventry{2010--2011}{}{}{}{}{Spent some time finding myself. This was a courageous endeavour that didn't have a job title. It was quite important to my overall development though so I'm adding it to my CV. Also it explains the gap in my otherwise stellar CV.}
+
+\cventry{2009--2010}{Computer Repair Specialist}{Buy More}{Burbank}{}{Worked in the Nerd Herd and helped to solve computer problems. Allowed me to become expert in all forms of martial arts and weaponry.}
+
+%----------------------------------------------------------------------------------------
+%	CERTIFICATIONS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Certifications}
+
+\cvitem{2021}{AWS Certified Developer - Associate}
+\cvitem{2020}{AWS Certified Solutions Architect - Associate}
+\cvitem{2020}{AWS Certified Cloud Practitioner}
+
+%----------------------------------------------------------------------------------------
+%	COMPUTER SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Computer skills}
+
+\cvitem{Basic}{\textsc{java}, Adobe Illustrator}
+\cvitem{Intermediate}{\textsc{python}, \textsc{html}, \LaTeX, OpenOffice, Linux, Microsoft Windows}
+\cvitem{Advanced}{Computer Hardware and Support}
+
+%----------------------------------------------------------------------------------------
+%	COMMUNICATION SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Communication Skills}
+
+\cvitem{2010}{Oral Presentation at the California Business Conference}
+\cvitem{2009}{Poster at the Annual Business Conference in Oregon}
+
+%----------------------------------------------------------------------------------------
+%	LANGUAGES SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Languages}
+
+\cvitemwithcomment{English}{Mothertongue}{C2}
+\cvitemwithcomment{Italian}{Mothertongue}{C2}
+\cvitemwithcomment{French}{Basic}{A2}
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Interests}
+
+\renewcommand{\listitemsymbol}{-~} % Changes the symbol used for lists
+
+\cvlistdoubleitem{Piano}{Chess}
+\cvlistdoubleitem{Cooking}{Dancing}
+\cvlistitem{Running}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
