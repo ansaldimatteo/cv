@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.3)  4 JAN 2022 15:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.3)  5 JAN 2022 10:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -471,21 +471,21 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 69.
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 95.
+(Font)              using `T1/lmss/m/sc' instead on input line 99.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 95.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 99.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 130.
+(Font)              using `T1/lmss/m/sc' instead on input line 134.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
 
  []
 
@@ -493,18 +493,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--130
 
 {C:/Users/ansal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 95F1F31829546C2BD82D82EA4490FCD1;1251.
+(rerunfilecheck)             Checksum: 2E66D87C07DA983CFF02B3E0BAB01A0E;1256.
  ) 
 Here is how much of TeX's memory you used:
- 12905 strings out of 478659
- 214357 string characters out of 2845921
+ 12907 strings out of 478659
+ 214377 string characters out of 2845921
  648061 words of memory out of 3000000
  30684 multiletter control sequences out of 15000+600000
- 474985 words of font info for 115 fonts, out of 8000000 for 9000
+ 475086 words of font info for 116 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,13n,83p,1027b,393s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso17.pfb><C:/Users/ansal/AppData/Local/Programs/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (2 pages, 190243 bytes).
+Output written on cv.pdf (2 pages, 191401 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
